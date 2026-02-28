@@ -99,6 +99,21 @@
       "date": "2026-02-27",
       "id": "R_kgDORRQ44Q",
       "name": "liangdabiao/Seedance2-Storyboard-Generator"
+    },
+    {
+      "date": "2026-02-28",
+      "id": "R_kgDORXFZgQ",
+      "name": "anthropics/financial-services-plugins"
+    },
+    {
+      "date": "2026-02-28",
+      "id": "R_kgDORYHh3g",
+      "name": "RightNow-AI/openfang"
+    },
+    {
+      "date": "2026-02-28",
+      "id": "R_kgDORUyJ-g",
+      "name": "better-auth/better-hub"
     }
   ]
 }
